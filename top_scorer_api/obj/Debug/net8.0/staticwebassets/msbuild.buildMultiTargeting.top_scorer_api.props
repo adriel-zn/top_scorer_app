@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\top_scorer_api.props" />
+</Project>

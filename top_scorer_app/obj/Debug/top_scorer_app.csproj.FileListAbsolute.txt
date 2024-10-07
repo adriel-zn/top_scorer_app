@@ -1,0 +1,9 @@
+C:\Users\adriel.mariappen\source\repos\top_scorer_app\top_scorer_app\bin\Debug\top_scorer_app.exe.config
+C:\Users\adriel.mariappen\source\repos\top_scorer_app\top_scorer_app\bin\Debug\top_scorer_app.exe
+C:\Users\adriel.mariappen\source\repos\top_scorer_app\top_scorer_app\bin\Debug\top_scorer_app.pdb
+C:\Users\adriel.mariappen\source\repos\top_scorer_app\top_scorer_app\obj\Debug\top_scorer_app.csproj.AssemblyReference.cache
+C:\Users\adriel.mariappen\source\repos\top_scorer_app\top_scorer_app\obj\Debug\top_scorer_app.csproj.CoreCompileInputs.cache
+C:\Users\adriel.mariappen\source\repos\top_scorer_app\top_scorer_app\obj\Debug\top_scorer_app.exe
+C:\Users\adriel.mariappen\source\repos\top_scorer_app\top_scorer_app\obj\Debug\top_scorer_app.pdb
+C:\Users\adriel.mariappen\source\repos\top_scorer_app\top_scorer_app\bin\Debug\TestData.csv
+C:\Users\adriel.mariappen\source\repos\top_scorer_app\top_scorer_app\bin\Debug\top_scorer.db
